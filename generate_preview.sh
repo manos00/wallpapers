@@ -1,6 +1,8 @@
-#!/bin/zsh
+#!/bin/bash
 
 # NOTE: this script should be run from the wallpapers root directory.
+
+files=(*.jpg)
 
 nb_note="""
 ## N.B.
@@ -14,14 +16,12 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    for filename (*.jpg(om)); do
+    for filename in ${files[@]}
+    do
         printf "\n## %s\n\n![%s](%s)\n" "$filename" "$filename" "$filename"
     done
 }
 
-rm README.md; generate_file >>README.md
-
-# useful for inspecting readme after creation e.g. $ ./generate_preview.sh vim
-[ -n "$1" ] && $1 README.md
+ rm README.md; generate_file >>README.md
 
 exit 0
