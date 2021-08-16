@@ -59,6 +59,10 @@ to remove your work, please let me know.
 
 ![beastlybird.jpg](beastlybird.jpg)
 
+## blackglass.jpg
+
+![blackglass.jpg](blackglass.jpg)
+
 ## bladerunner.jpg
 
 ![bladerunner.jpg](bladerunner.jpg)
@@ -278,6 +282,10 @@ to remove your work, please let me know.
 ## outtatime.jpg
 
 ![outtatime.jpg](outtatime.jpg)
+
+## pain.jpg
+
+![pain.jpg](pain.jpg)
 
 ## paperdino.jpg
 
