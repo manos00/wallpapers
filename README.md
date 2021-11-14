@@ -227,6 +227,10 @@ to remove your work, please let me know.
 
 ![mastermindgoredigitalart.jpg](mastermindgoredigitalart.jpg)
 
+## minecraft-fox-portal.jpg
+
+![minecraft-fox-portal.jpg](minecraft-fox-portal.jpg)
+
 ## minimalmountains.jpg
 
 ![minimalmountains.jpg](minimalmountains.jpg)
