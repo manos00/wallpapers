@@ -231,6 +231,10 @@ to remove your work, please let me know.
 
 ![minecraft-fox-portal.jpg](minecraft-fox-portal.jpg)
 
+## minecraftmountains.jpg
+
+![minecraftmountains.jpg](minecraftmountains.jpg)
+
 ## minimalmountains.jpg
 
 ![minimalmountains.jpg](minimalmountains.jpg)
