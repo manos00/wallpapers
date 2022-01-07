@@ -219,6 +219,10 @@ to remove your work, please let me know.
 
 ![lowpolysunset.jpg](lowpolysunset.jpg)
 
+## madaravsgai.jpg
+
+![madaravsgai.jpg](madaravsgai.jpg)
+
 ## majesticphoenix.jpg
 
 ![majesticphoenix.jpg](majesticphoenix.jpg)
