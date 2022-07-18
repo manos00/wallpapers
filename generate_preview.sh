@@ -24,14 +24,12 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    for filename in ${jpgs[@]}
-    do
+    for filename in ${jpgs[@]}; do
         printf "\n## $filename\n\n![$filename]($filename)\n"
     done
 }
 
-if [[ $(which mogrify) != "" ]]
-then
+if command -v mogrify; then
     png_to_jpg
 fi
 
