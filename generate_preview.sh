@@ -25,11 +25,11 @@ generate_file() {
     echo "$nb_note"
 
     for filename in ${jpgs[@]}; do
-        printf "\n## $filename\n\n![$filename]($filename)\n"
+        printf "\n## ${filename%.jpg}\n\n![$filename]($filename)\n"
     done
 }
 
-if command -v mogrify; then
+if command -v mogrify > /dev/null ; then
     png_to_jpg
 fi
 

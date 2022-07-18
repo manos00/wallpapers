@@ -7,458 +7,458 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 and resize most of them. If you are the original creator and would like for me
 to remove your work, please let me know.
 
-## 3dskull.jpg
+## 3dskull
 
 ![3dskull.jpg](3dskull.jpg)
 
-## abovethemountains.jpg
+## abovethemountains
 
 ![abovethemountains.jpg](abovethemountains.jpg)
 
-## abstract.jpg
+## abstract
 
 ![abstract.jpg](abstract.jpg)
 
-## abstractblob.jpg
+## abstractblob
 
 ![abstractblob.jpg](abstractblob.jpg)
 
-## abstractstrands.jpg
+## abstractstrands
 
 ![abstractstrands.jpg](abstractstrands.jpg)
 
-## adventuretime.jpg
+## adventuretime
 
 ![adventuretime.jpg](adventuretime.jpg)
 
-## alleyesonyou.jpg
+## alleyesonyou
 
 ![alleyesonyou.jpg](alleyesonyou.jpg)
 
-## almostsetsun.jpg
+## almostsetsun
 
 ![almostsetsun.jpg](almostsetsun.jpg)
 
-## andtherocketflewoverthesun.jpg
+## andtherocketflewoverthesun
 
 ![andtherocketflewoverthesun.jpg](andtherocketflewoverthesun.jpg)
 
-## arch.jpg
+## arch
 
 ![arch.jpg](arch.jpg)
 
-## arcticwonderland.jpg
+## arcticwonderland
 
 ![arcticwonderland.jpg](arcticwonderland.jpg)
 
-## ascendingastronaut.jpg
+## ascendingastronaut
 
 ![ascendingastronaut.jpg](ascendingastronaut.jpg)
 
-## astronautcrawling.jpg
+## astronautcrawling
 
 ![astronautcrawling.jpg](astronautcrawling.jpg)
 
-## astronautshrugged.jpg
+## astronautshrugged
 
 ![astronautshrugged.jpg](astronautshrugged.jpg)
 
-## awesome.jpg
+## awesome
 
 ![awesome.jpg](awesome.jpg)
 
-## beastlybird.jpg
+## beastlybird
 
 ![beastlybird.jpg](beastlybird.jpg)
 
-## blackglass.jpg
+## blackglass
 
 ![blackglass.jpg](blackglass.jpg)
 
-## bladerunner.jpg
+## bladerunner
 
 ![bladerunner.jpg](bladerunner.jpg)
 
-## bluesunset.jpg
+## bluesunset
 
 ![bluesunset.jpg](bluesunset.jpg)
 
-## busydragons.jpg
+## busydragons
 
 ![busydragons.jpg](busydragons.jpg)
 
-## cabininthelake.jpg
+## cabininthelake
 
 ![cabininthelake.jpg](cabininthelake.jpg)
 
-## chineseneonsign.jpg
+## chineseneonsign
 
 ![chineseneonsign.jpg](chineseneonsign.jpg)
 
-## cleansunsetart.jpg
+## cleansunsetart
 
 ![cleansunsetart.jpg](cleansunsetart.jpg)
 
-## colorfulcurves.jpg
+## colorfulcurves
 
 ![colorfulcurves.jpg](colorfulcurves.jpg)
 
-## cozysoftforrest.jpg
+## cozysoftforrest
 
 ![cozysoftforrest.jpg](cozysoftforrest.jpg)
 
-## crowdedfuture.jpg
+## crowdedfuture
 
 ![crowdedfuture.jpg](crowdedfuture.jpg)
 
-## crowhangingaroundinaforest.jpg
+## crowhangingaroundinaforest
 
 ![crowhangingaroundinaforest.jpg](crowhangingaroundinaforest.jpg)
 
-## cyberpunkhead.jpg
+## cyberpunkhead
 
 ![cyberpunkhead.jpg](cyberpunkhead.jpg)
 
-## dalek.jpg
+## dalek
 
 ![dalek.jpg](dalek.jpg)
 
-## denseneighborhood.jpg
+## denseneighborhood
 
 ![denseneighborhood.jpg](denseneighborhood.jpg)
 
-## desolatelandscape.jpg
+## desolatelandscape
 
 ![desolatelandscape.jpg](desolatelandscape.jpg)
 
-## discodingo.jpg
+## discodingo
 
 ![discodingo.jpg](discodingo.jpg)
 
-## drivingthroughstreetsofjapan.jpg
+## drivingthroughstreetsofjapan
 
 ![drivingthroughstreetsofjapan.jpg](drivingthroughstreetsofjapan.jpg)
 
-## eastasianarchitecture.jpg
+## eastasianarchitecture
 
 ![eastasianarchitecture.jpg](eastasianarchitecture.jpg)
 
-## empireinruins.jpg
+## empireinruins
 
 ![empireinruins.jpg](empireinruins.jpg)
 
-## eyeofsauron.jpg
+## eyeofsauron
 
 ![eyeofsauron.jpg](eyeofsauron.jpg)
 
-## firewatchguy.jpg
+## firewatchguy
 
 ![firewatchguy.jpg](firewatchguy.jpg)
 
-## floatinghead.jpg
+## floatinghead
 
 ![floatinghead.jpg](floatinghead.jpg)
 
-## floatingworld.jpg
+## floatingworld
 
 ![floatingworld.jpg](floatingworld.jpg)
 
-## forestlake.jpg
+## forestlake
 
 ![forestlake.jpg](forestlake.jpg)
 
-## forestofcolors.jpg
+## forestofcolors
 
 ![forestofcolors.jpg](forestofcolors.jpg)
 
-## futurespace.jpg
+## futurespace
 
 ![futurespace.jpg](futurespace.jpg)
 
-## futureutopia.jpg
+## futureutopia
 
 ![futureutopia.jpg](futureutopia.jpg)
 
-## giantmonuments.jpg
+## giantmonuments
 
 ![giantmonuments.jpg](giantmonuments.jpg)
 
-## gradientrainbow.jpg
+## gradientrainbow
 
 ![gradientrainbow.jpg](gradientrainbow.jpg)
 
-## gradientrainbow2.jpg
+## gradientrainbow2
 
 ![gradientrainbow2.jpg](gradientrainbow2.jpg)
 
-## houseontheedge.jpg
+## houseontheedge
 
 ![houseontheedge.jpg](houseontheedge.jpg)
 
-## inspacenoonecanhearyouscream.jpg
+## inspacenoonecanhearyouscream
 
 ![inspacenoonecanhearyouscream.jpg](inspacenoonecanhearyouscream.jpg)
 
-## isitmyescape.jpg
+## isitmyescape
 
 ![isitmyescape.jpg](isitmyescape.jpg)
 
-## itachi.jpg
+## itachi
 
 ![itachi.jpg](itachi.jpg)
 
-## koiinapond.jpg
+## koiinapond
 
 ![koiinapond.jpg](koiinapond.jpg)
 
-## landscapebright.jpg
+## landscapebright
 
 ![landscapebright.jpg](landscapebright.jpg)
 
-## laserneonbeams.jpg
+## laserneonbeams
 
 ![laserneonbeams.jpg](laserneonbeams.jpg)
 
-## linux.jpg
+## linux
 
 ![linux.jpg](linux.jpg)
 
-## listentoyourheart.jpg
+## listentoyourheart
 
 ![listentoyourheart.jpg](listentoyourheart.jpg)
 
-## lowpolysunset.jpg
+## lowpolysunset
 
 ![lowpolysunset.jpg](lowpolysunset.jpg)
 
-## madaravsgai.jpg
+## madaravsgai
 
 ![madaravsgai.jpg](madaravsgai.jpg)
 
-## majesticphoenix.jpg
+## majesticphoenix
 
 ![majesticphoenix.jpg](majesticphoenix.jpg)
 
-## mastermindgoredigitalart.jpg
+## mastermindgoredigitalart
 
 ![mastermindgoredigitalart.jpg](mastermindgoredigitalart.jpg)
 
-## milleniumfalcon.jpg
+## milleniumfalcon
 
 ![milleniumfalcon.jpg](milleniumfalcon.jpg)
 
-## minecraft-fox-portal.jpg
+## minecraft-fox-portal
 
 ![minecraft-fox-portal.jpg](minecraft-fox-portal.jpg)
 
-## minecraftmountains.jpg
+## minecraftmountains
 
 ![minecraftmountains.jpg](minecraftmountains.jpg)
 
-## minimalmountains.jpg
+## minimalmountains
 
 ![minimalmountains.jpg](minimalmountains.jpg)
 
-## monsterog.jpg
+## monsterog
 
 ![monsterog.jpg](monsterog.jpg)
 
-## moonlightblue.jpg
+## moonlightblue
 
 ![moonlightblue.jpg](moonlightblue.jpg)
 
-## mountains.jpg
+## mountains
 
 ![mountains.jpg](mountains.jpg)
 
-## movingcastle.jpg
+## movingcastle
 
 ![movingcastle.jpg](movingcastle.jpg)
 
-## mypetandi.jpg
+## mypetandi
 
 ![mypetandi.jpg](mypetandi.jpg)
 
-## mysticalbeast.jpg
+## mysticalbeast
 
 ![mysticalbeast.jpg](mysticalbeast.jpg)
 
-## nebula.jpg
+## nebula
 
 ![nebula.jpg](nebula.jpg)
 
-## neongasstation.jpg
+## neongasstation
 
 ![neongasstation.jpg](neongasstation.jpg)
 
-## neonlasersunset.jpg
+## neonlasersunset
 
 ![neonlasersunset.jpg](neonlasersunset.jpg)
 
-## neonnostalgia.jpg
+## neonnostalgia
 
 ![neonnostalgia.jpg](neonnostalgia.jpg)
 
-## neonwomanglasses.jpg
+## neonwomanglasses
 
 ![neonwomanglasses.jpg](neonwomanglasses.jpg)
 
-## noworries.jpg
+## noworries
 
 ![noworries.jpg](noworries.jpg)
 
-## organicvivid.jpg
+## organicvivid
 
 ![organicvivid.jpg](organicvivid.jpg)
 
-## outtatime.jpg
+## outtatime
 
 ![outtatime.jpg](outtatime.jpg)
 
-## pain.jpg
+## pain
 
 ![pain.jpg](pain.jpg)
 
-## paperdino.jpg
+## paperdino
 
 ![paperdino.jpg](paperdino.jpg)
 
-## planetexpress.jpg
+## planetexpress
 
 ![planetexpress.jpg](planetexpress.jpg)
 
-## prodigalsonreturns.jpg
+## prodigalsonreturns
 
 ![prodigalsonreturns.jpg](prodigalsonreturns.jpg)
 
-## redgiant.jpg
+## redgiant
 
 ![redgiant.jpg](redgiant.jpg)
 
-## retrogradient.jpg
+## retrogradient
 
 ![retrogradient.jpg](retrogradient.jpg)
 
-## ricefieldsatsunset.jpg
+## ricefieldsatsunset
 
 ![ricefieldsatsunset.jpg](ricefieldsatsunset.jpg)
 
-## robomonsterkitty.jpg
+## robomonsterkitty
 
 ![robomonsterkitty.jpg](robomonsterkitty.jpg)
 
-## robopackmule.jpg
+## robopackmule
 
 ![robopackmule.jpg](robopackmule.jpg)
 
-## robotscanenjoythesunsettoo.jpg
+## robotscanenjoythesunsettoo
 
 ![robotscanenjoythesunsettoo.jpg](robotscanenjoythesunsettoo.jpg)
 
-## samuraihat.jpg
+## samuraihat
 
 ![samuraihat.jpg](samuraihat.jpg)
 
-## samuraijack.jpg
+## samuraijack
 
 ![samuraijack.jpg](samuraijack.jpg)
 
-## samuraimummy.jpg
+## samuraimummy
 
 ![samuraimummy.jpg](samuraimummy.jpg)
 
-## sereneforest.jpg
+## sereneforest
 
 ![sereneforest.jpg](sereneforest.jpg)
 
-## serenegreen.jpg
+## serenegreen
 
 ![serenegreen.jpg](serenegreen.jpg)
 
-## settingsunforest.jpg
+## settingsunforest
 
 ![settingsunforest.jpg](settingsunforest.jpg)
 
-## sixarms.jpg
+## sixarms
 
 ![sixarms.jpg](sixarms.jpg)
 
-## skyship.jpg
+## skyship
 
 ![skyship.jpg](skyship.jpg)
 
-## solarsystem.jpg
+## solarsystem
 
 ![solarsystem.jpg](solarsystem.jpg)
 
-## spacemansilhouette.jpg
+## spacemansilhouette
 
 ![spacemansilhouette.jpg](spacemansilhouette.jpg)
 
-## spacingout.jpg
+## spacingout
 
 ![spacingout.jpg](spacingout.jpg)
 
-## squirrelinaforest.jpg
+## squirrelinaforest
 
 ![squirrelinaforest.jpg](squirrelinaforest.jpg)
 
-## sunsetonanalienplanet.jpg
+## sunsetonanalienplanet
 
 ![sunsetonanalienplanet.jpg](sunsetonanalienplanet.jpg)
 
-## sunsetpaintingsea.jpg
+## sunsetpaintingsea
 
 ![sunsetpaintingsea.jpg](sunsetpaintingsea.jpg)
 
-## surge.jpg
+## surge
 
 ![surge.jpg](surge.jpg)
 
-## surge2.jpg
+## surge2
 
 ![surge2.jpg](surge2.jpg)
 
-## tardistimevortex.jpg
+## tardistimevortex
 
 ![tardistimevortex.jpg](tardistimevortex.jpg)
 
-## tiger.jpg
+## tiger
 
 ![tiger.jpg](tiger.jpg)
 
-## trianglesvivid.jpg
+## trianglesvivid
 
 ![trianglesvivid.jpg](trianglesvivid.jpg)
 
-## troubledwaters.jpg
+## troubledwaters
 
 ![troubledwaters.jpg](troubledwaters.jpg)
 
-## vashtanerada.jpg
+## vashtanerada
 
 ![vashtanerada.jpg](vashtanerada.jpg)
 
-## vividnightlandscape.jpg
+## vividnightlandscape
 
 ![vividnightlandscape.jpg](vividnightlandscape.jpg)
 
-## vividvoxelcables.jpg
+## vividvoxelcables
 
 ![vividvoxelcables.jpg](vividvoxelcables.jpg)
 
-## warmlandscape.jpg
+## warmlandscape
 
 ![warmlandscape.jpg](warmlandscape.jpg)
 
-## warriorlandscape.jpg
+## warriorlandscape
 
 ![warriorlandscape.jpg](warriorlandscape.jpg)
 
-## welostthesea.jpg
+## welostthesea
 
 ![welostthesea.jpg](welostthesea.jpg)
 
-## whale.jpg
+## whale
 
 ![whale.jpg](whale.jpg)
