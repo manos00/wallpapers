@@ -91,6 +91,10 @@ to remove your work, please let me know.
 
 ![cabininthelake.jpg](cabininthelake.jpg)
 
+## cherryblossom_samurai
+
+![cherryblossom_samurai.jpg](cherryblossom_samurai.jpg)
+
 ## chineseneonsign
 
 ![chineseneonsign.jpg](chineseneonsign.jpg)
@@ -134,6 +138,10 @@ to remove your work, please let me know.
 ## discodingo
 
 ![discodingo.jpg](discodingo.jpg)
+
+## doge_samurai
+
+![doge_samurai.jpg](doge_samurai.jpg)
 
 ## drivingthroughstreetsofjapan
 
@@ -383,9 +391,17 @@ to remove your work, please let me know.
 
 ![sixarms.jpg](sixarms.jpg)
 
+## skeleton_astronaut
+
+![skeleton_astronaut.jpg](skeleton_astronaut.jpg)
+
 ## skyship
 
 ![skyship.jpg](skyship.jpg)
+
+## sleeping_totoro
+
+![sleeping_totoro.jpg](sleeping_totoro.jpg)
 
 ## solarsystem
 
